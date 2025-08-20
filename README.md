@@ -19,10 +19,15 @@ Each task covers a different ML problem and demonstrates data processing, modeli
 
 ## 📂 Repository Structure
 Elevvo-Internship-Tasks/
+
 │── README.md # Root README (this file)
+
 │── Task1_StudentScorePrediction/
+
 │── Task2_CustomerSegmentation/
+
 │── Task3_LoanApprovalPrediction/
+
 │── Task4_SalesForecasting/
 
 
